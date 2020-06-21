@@ -8,12 +8,35 @@
         font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
         font-size: 100%;
       }
+      .container {
+        min-width: 420px;
+        margin: 32px;
+      }
+      .head {
+        display: flex;
+      }
+      .logo {
+        padding-right: 8px;
+        width: 48px;
+        height: 48px;
+      }
+      .description {
+        color: grey;
+        margin-top: -16px;
+      }
     </style>
     <script src="js/vendor.js"></script>
   </head>
   <body>
-    <sectin style="min-width: 700px;">
-      https://github.com/JaeYeopHan/pretty-octo
+    <sectin class="container">
+      <div class="head">
+        <img class="logo" src="./icon/icon_128x128.png" alt="logo" />
+        <h2>Pretty-octo</h1>
+      </div>
+      <div class="description">Chrome Extension for GitHub UX</div>
+      <a href="https://github.com/JaeYeopHan/pretty-octo">
+        https://github.com/JaeYeopHan/pretty-octo
+      </a>
     </sectin>
     <script src="js/main.js"></script>
   </body>
