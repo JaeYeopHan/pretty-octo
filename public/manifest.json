@@ -20,5 +20,5 @@
       "js": ["js/vendor.js", "js/main.js"]
     }
   ],
-  "permissions": ["storage", "activeTab", "tabs", "<all_urls>"]
+  "permissions": ["storage", "activeTab", "tabs", "https://github.com/*"]
 }
