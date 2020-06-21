@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "pretty-octo",
+  "description": "Chrome Extension for GitHub UX",
+  "browser_action": {
+    "default_icon": "icon/icon_16x16.png",
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "icon/icon_16x16.png",
+    "48": "icon/icon_64x64.png",
+    "128": "icon/icon_128x128.png"
+  },
+  "homepage_url": "https://github.com/JaeYeopHan/pretty-octo",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "run_at": "document_end",
+      "js": ["js/vendor.js", "js/main.js"]
+    }
+  ],
+  "permissions": ["storage", "activeTab", "tabs", "<all_urls>"]
+}

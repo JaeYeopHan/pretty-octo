@@ -1,0 +1,20 @@
+{
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "eslint.options": {
+    "extensions": [".html", ".ts", ".js", ".tsx"]
+  },
+  "files.autoSaveDelay": 500,
+  "eslint.packageManager": "npm",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "files.eol": "\n",
+  "json.schemas": [
+    {
+      "fileMatch": ["/manifest.json"],
+      "url": "http://json.schemastore.org/chrome-manifest"
+    }
+  ]
+}

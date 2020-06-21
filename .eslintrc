@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "no-multiple-empty-lines": "error",
+    "comma-dangle": ["error", "always-multiline"],
+    "eol-last": ["error", "always"],
+    "semi": ["error", "never"],
+    "quotes": ["error", "single"],
+    "no-tabs": "error",
+    "padding-line-between-statements": [
+      "error",
+      { "blankLine": "always", "prev": "*", "next": "return" }
+    ]
+  }
+}
