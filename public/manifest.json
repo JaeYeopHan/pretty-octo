@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "pretty-octo",
   "description": "Chrome Extension for GitHub UX",
   "browser_action": {
