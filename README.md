@@ -1,6 +1,6 @@
-# pretty-octo
-
 ![pretty-octo](./public/icon/icon_128x128.png)
+
+# pretty-octo
 
 Chrome Extension for pretty GitHub UX
 
@@ -18,7 +18,7 @@ Apply narow styles to GitHub navbar (with `container-xl`)
 
 > To be continued... ([> issue](https://github.com/JaeYeopHan/pretty-octo/issues/new?template=Feature_request.md))
 
-### 🛠 Based on
+### Based on
 
 - [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)
 
