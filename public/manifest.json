@@ -19,6 +19,5 @@
       "run_at": "document_end",
       "js": ["js/vendor.js", "js/main.js"]
     }
-  ],
-  "permissions": ["activeTab", "https://github.com/*"]
+  ]
 }
