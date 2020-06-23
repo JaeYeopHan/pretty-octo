@@ -8,7 +8,7 @@ Chrome Extension for pretty GitHub UX
 
 ### UI
 
-#### ✅ Apply narrow styles
+#### ✅  Apply narrow styles
 
 Apply narow styles to GitHub navbar (with `container-xl`)
 
