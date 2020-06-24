@@ -2,7 +2,13 @@
 
 # pretty-octo
 
+[![extension-version](https://badgen.net/chrome-web-store/v/pnjndmenjdnlkffafgfbdfegmpjjbjdm)](https://chrome.google.com/webstore/detail/octodirect/pnjndmenjdnlkffafgfbdfegmpjjbjdm?hl=ko) [![price](https://badgen.net/chrome-web-store/price/pnjndmenjdnlkffafgfbdfegmpjjbjdm)](https://chrome.google.com/webstore/detail/octodirect/pnjndmenjdnlkffafgfbdfegmpjjbjdm?hl=ko) [![star_of_extension](https://badgen.net/chrome-web-store/stars/pnjndmenjdnlkffafgfbdfegmpjjbjdm)](https://chrome.google.com/webstore/detail/octodirect/pnjndmenjdnlkffafgfbdfegmpjjbjdm?hl=ko)
+
 Chrome Extension for pretty GitHub UX
+
+## Install
+
+Chrome Extension > [Link](https://chrome.google.com/webstore/detail/pretty-octo/pnjndmenjdnlkffafgfbdfegmpjjbjdm?hl=ko)
 
 ## Features
 
