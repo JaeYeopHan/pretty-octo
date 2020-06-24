@@ -14,7 +14,7 @@ Chrome Extension > [Link](https://chrome.google.com/webstore/detail/pretty-octo/
 
 ### UI
 
-#### ✅ Apply narrow styles
+#### ✅  Apply narrow styles
 
 Apply narow styles to GitHub navbar (with `container-xl`)
 
